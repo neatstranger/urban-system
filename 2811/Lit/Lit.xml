@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Projects\lit\Lit\Lit.kicad_sch</source>
+    <date>12/4/2023 2:18:01 AM</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Lit.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.33uF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/products/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_313.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C386150</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C386150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>547a2399-3eef-4bd4-8538-b8e1d2e93e22</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://www.lcsc.com/products/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_313.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C6641151</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C6641151"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dcdee62-ef28-484f-9e4a-32396fde460f</tstamps>
+    </comp>
+    <comp ref="Ci1">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://www.lcsc.com/products/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_313.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C114581</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C114581"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>643f3784-5b7c-46d0-92f3-fdeda8f25126</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>TC5050RGBF08-3CJH-AF53A</value>
+      <footprint>:LED-SMD_6P-L5.0-W5.0-TL_TC5050RGBF08</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TCWIN-TC5050RGBF08-3CJH-AF53A_C784540.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C784540</field>
+      </fields>
+      <libsource lib="models" part="TC5050RGBF08-3CJH-AF53A" description=""/>
+      <property name="LCSC Part" value="C784540"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>638ab289-f5d2-44a6-b94d-db64cc58c286</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>TC5050RGBF08-3CJH-AF53A</value>
+      <footprint>:LED-SMD_6P-L5.0-W5.0-TL_TC5050RGBF08</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TCWIN-TC5050RGBF08-3CJH-AF53A_C784540.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C784540</field>
+      </fields>
+      <libsource lib="models" part="TC5050RGBF08-3CJH-AF53A" description=""/>
+      <property name="LCSC Part" value="C784540"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4f59f5d-c2b4-4041-9770-f2b56e2f910a</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>TC5050RGBF08-3CJH-AF53A</value>
+      <footprint>:LED-SMD_6P-L5.0-W5.0-TL_TC5050RGBF08</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TCWIN-TC5050RGBF08-3CJH-AF53A_C784540.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C784540</field>
+      </fields>
+      <libsource lib="models" part="TC5050RGBF08-3CJH-AF53A" description=""/>
+      <property name="LCSC Part" value="C784540"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09895120-d307-48a8-a605-5e1034bbe712</tstamps>
+    </comp>
+    <comp ref="Rd1">
+      <value>3.3k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <datasheet>https://www.lcsc.com/products/Chip-Resistor-Surface-Mount_439.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C108078</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value="C108078"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6e57e23-2ca1-46ac-aa1c-501c24925954</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>WS2811</value>
+      <footprint>models:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2811.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part">C114581</field>
+      </fields>
+      <libsource lib="Driver_LED" part="WS2811" description="3-Channel 8-Bit PWM LED Driver, DIP-8/SOIC-8"/>
+      <property name="LCSC Part" value="C114581"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <property name="ki_description" value="3-Channel 8-Bit PWM LED Driver, DIP-8/SOIC-8"/>
+      <property name="ki_keywords" value="PWM LED driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d8fc916-ed96-453f-abf6-8b98883c3fdc</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>L7812CD2T(UMW)</value>
+      <footprint>:TO-263-2_L10.2-W8.5-P5.08-LS15.4-BR</footprint>
+      <fields>
+        <field name="LCSC Part">C7394044</field>
+      </fields>
+      <libsource lib="models" part="L7812CD2T(UMW)" description=""/>
+      <property name="LCSC Part" value="C7394044"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Lit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3e92dfd-b0cb-4c26-b4ad-fd822e4ee334</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="WS2811">
+      <description>3-Channel 8-Bit PWM LED Driver, DIP-8/SOIC-8</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2811.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WS2811</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2811.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUTR" type="output"/>
+        <pin num="2" name="OUTG" type="output"/>
+        <pin num="3" name="OUTB" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DO" type="output"/>
+        <pin num="6" name="DIN" type="input"/>
+        <pin num="7" name="SET" type="input"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="models" part="L7812CD2T(UMW)">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7812CD2T(UMW)</field>
+        <field name="Footprint">:TO-263-2_L10.2-W8.5-P5.08-LS15.4-BR</field>
+        <field name="LCSC Part">C7394044</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INPUT" type="unspecified"/>
+        <pin num="2" name="GND" type="unspecified"/>
+        <pin num="3" name="OUTPUT" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="models" part="TC5050RGBF08-3CJH-AF53A">
+      <docs>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TCWIN-TC5050RGBF08-3CJH-AF53A_C784540.html</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">TC5050RGBF08-3CJH-AF53A</field>
+        <field name="Footprint">:LED-SMD_6P-L5.0-W5.0-TL_TC5050RGBF08</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TCWIN-TC5050RGBF08-3CJH-AF53A_C784540.html</field>
+        <field name="LCSC Part">C784540</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="unspecified"/>
+        <pin num="2" name="+" type="unspecified"/>
+        <pin num="3" name="+" type="unspecified"/>
+        <pin num="4" name="-" type="unspecified"/>
+        <pin num="5" name="-" type="unspecified"/>
+        <pin num="6" name="-" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Driver_LED.kicad_sym</uri>
+    </library>
+    <library logical="models">
+      <uri>C:/Projects/lit/Models/models.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="LED3" pin="1" pinfunction="+" pintype="unspecified"/>
+      <node ref="LED3" pin="2" pinfunction="+" pintype="unspecified"/>
+      <node ref="LED3" pin="3" pinfunction="+" pintype="unspecified"/>
+      <node ref="Rd1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="OUTPUT" pintype="unspecified"/>
+    </net>
+    <net code="2" name="Data-In">
+      <node ref="U1" pin="6" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="3" name="Data-Out">
+      <node ref="U1" pin="5" pinfunction="DO" pintype="output"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="Ci1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="unspecified"/>
+    </net>
+    <net code="5" name="Net-(LED1-+-Pad1)">
+      <node ref="LED1" pin="1" pinfunction="+" pintype="unspecified"/>
+      <node ref="LED2" pin="6" pinfunction="-" pintype="unspecified"/>
+    </net>
+    <net code="6" name="Net-(LED1-+-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="+" pintype="unspecified"/>
+      <node ref="LED2" pin="5" pinfunction="-" pintype="unspecified"/>
+    </net>
+    <net code="7" name="Net-(LED1-+-Pad3)">
+      <node ref="LED1" pin="3" pinfunction="+" pintype="unspecified"/>
+      <node ref="LED2" pin="4" pinfunction="-" pintype="unspecified"/>
+    </net>
+    <net code="8" name="Net-(LED2-+-Pad1)">
+      <node ref="LED2" pin="1" pinfunction="+" pintype="unspecified"/>
+      <node ref="LED3" pin="6" pinfunction="-" pintype="unspecified"/>
+    </net>
+    <net code="9" name="Net-(LED2-+-Pad2)">
+      <node ref="LED2" pin="2" pinfunction="+" pintype="unspecified"/>
+      <node ref="LED3" pin="5" pinfunction="-" pintype="unspecified"/>
+    </net>
+    <net code="10" name="Net-(LED2-+-Pad3)">
+      <node ref="LED2" pin="3" pinfunction="+" pintype="unspecified"/>
+      <node ref="LED3" pin="4" pinfunction="-" pintype="unspecified"/>
+    </net>
+    <net code="11" name="Net-(U1-OUTB)">
+      <node ref="LED1" pin="4" pinfunction="-" pintype="unspecified"/>
+      <node ref="U1" pin="3" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="12" name="Net-(U1-OUTG)">
+      <node ref="LED1" pin="6" pinfunction="-" pintype="unspecified"/>
+      <node ref="U1" pin="2" pinfunction="OUTG" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(U1-OUTR)">
+      <node ref="LED1" pin="5" pinfunction="-" pintype="unspecified"/>
+      <node ref="U1" pin="1" pinfunction="OUTR" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(U1-VDD)">
+      <node ref="Ci1" pin="1" pintype="passive"/>
+      <node ref="Rd1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="15" name="VCC">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="INPUT" pintype="unspecified"/>
+    </net>
+    <net code="16" name="unconnected-(U1-SET-Pad7)">
+      <node ref="U1" pin="7" pinfunction="SET" pintype="input"/>
+    </net>
+  </nets>
+</export>
